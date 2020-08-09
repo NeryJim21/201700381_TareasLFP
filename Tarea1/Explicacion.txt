@@ -1,0 +1,32 @@
+PROGRAMACIÓN DECLARATIVA E IMPERATIVA
+
+El paradigma de programación imperativa es el más antiguo en el mundo de la 
+programación, también es el más utilizado y sin duda el primero en aprenderse.
+
+Consiste en ir declarando una serie de instrucciones que la computadora
+irá ejecutando de manera secuencial. 
+
+Entre sus ventajas se menciona la facilidad de lectura por los desarrolladores,
+pero tiende a convertirse en un código demasiado largo, dependiendo de la 
+complejidad del software desarrollado.
+
+Por otra parte, el paradigma declarativo se maneja de una forma más abstracta,
+en este se utilizan algoritmos que buscan el camino más eficiente para tomar
+una serie de metodos que den solución al problema.
+
+Se hace una analogía con que el paradifma impetativo es el 'COMO' se debe
+realizar una tarea. Mientras que la declarativa es el 'QUE' tarea se debe 
+obtener.
+
+EJEMPLO IMPERATIVA:
+
+List<int> results = new List<int>();
+foreach(var num in collection)
+{
+    if (num % 2 != 0)
+          results.Add(num);
+}
+
+EJEMPLO DECLARATIVA:
+
+var results = collection.Where( num => num % 2 != 0);
