@@ -1,0 +1,29 @@
+{
+    "arrayEstadistica":
+    [
+        {
+            "Nombre":"cuac",
+            "tiempo":"1h23min",
+            "punteo":"199",
+            "team":"gt1"
+        },
+        {
+            "Nombre":"pio",
+            "tiempo":"1h25min",
+            "punteo":"140",
+            "team":"gt2"
+        },
+        {
+            "Nombre":"muuu",
+            "tiempo":"1h59min",
+            "punteo":"99",
+            "team":"gt3"
+        },
+        {
+            "Nombre":"guau",
+            "tiempo":"45min",
+            "punteo":"299",
+            "team":"gt4"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+<Clasificatoria>
+    <participante>
+        <nombre>Roger</nombre>
+        <lugar>1</lugar>
+        <nacionalidad>Canadá</nacionalidad>
+        <edad>35</edad>
+    </participante>
+    <participante>
+        <nombre>Juanca</nombre>
+        <lugar>2</lugar>
+        <nacionalidad>Brasil</nacionalidad>
+        <edad>38</edad>
+    </participante>
+    <participante>
+        <nombre>Belinda</nombre>
+        <lugar>3</lugar>
+        <nacionalidad>Rep. Dom</nacionalidad>
+        <edad>34</edad>
+    </participante>
+    <participante>
+        <nombre>Sara</nombre>
+        <lugar>4</lugar>
+        <nacionalidad>España</nacionalidad>
+        <edad>29</edad>
+    </participante>
+</Clasificatoria>
